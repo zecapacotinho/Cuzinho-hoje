@@ -14,7 +14,7 @@ function noDenial(){
     NegativeButton.style.top = randomY + 'px'
 
     NegativeButton.addEventListener('click', () => {
-        window.alert('Parabéns você conseguiu aperta no botão, infelizmente não tera cuzinho hoje... 😢')
+        window.alert('Infelizmente não tera cuzinho hoje... 😢')
     })
 
 }
